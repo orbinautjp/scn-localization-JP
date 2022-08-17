@@ -1,3 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Orbiter uses improved solutions for its planetary position and velocity calculations. This folder shows a few examples.
-END_DESC
+</body>
+END_HYPERDESC

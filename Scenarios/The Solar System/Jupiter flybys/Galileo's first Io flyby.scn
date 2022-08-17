@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Nearing the end of its mission, on October 11, 1999, Galileo braved the intense Jovian radiation to make a close flyby of the most volcanic body in our solar system, Io.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
 System Sol

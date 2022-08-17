@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The Delta Glider cruises through the Jovian system on Voyager I's historic trajectory. Increase the time warp to 1000x and enjoy this hands-off tour of Jupiter and its Galilean Moons.
 
 After leaving the Jovian system, increase the time warp further and wait for
 the Saturn flyby in November 1980.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

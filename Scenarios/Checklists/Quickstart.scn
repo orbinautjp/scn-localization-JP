@@ -1,10 +1,12 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 For newcomers eager to get off the ground: This is the starting scenario for the Quickstart mission in the Orbiter Manual.
 
 Launch your Delta-glider from the Shuttle Landing Facility at the Kennedy Space Center.
 
 The Quickstart tutorial is available during the simulation by opening the Help window (Alt-F1) and selecting the Scenario button.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

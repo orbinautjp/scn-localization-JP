@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A preliminary virtual cockpit for Space Shuttle Atlantis with limited functionality. (Expect an improved version soon!)
 Have a look around the flight deck and enjoy the view of Earth through
 the windows.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

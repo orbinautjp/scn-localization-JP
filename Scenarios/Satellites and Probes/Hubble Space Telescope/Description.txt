@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The Hubble Space Telescope is the visible/ultraviolet/near-infrared
 element of the Great Observatories astronomical program. The spacecraft
 provides an order of magnitude better resolution than is capable from
@@ -18,4 +19,5 @@ satellite components).
 
 David Sundstrom's HST model shows off the new grappling capabilities of Atlantis' manipulator arm.
 The arm can be controlled via the control pad (Ctrl-Space).
-END_DESC
+</body>
+END_HYPERDESC

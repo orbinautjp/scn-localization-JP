@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Start in a glider docked to the International Space Station.
 
 Current location: above central China.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

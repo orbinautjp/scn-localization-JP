@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Use the joystick or keyboard cursor controls to see the Glider's elevons and rudder at work.
 The airbrake can be deployed with Ctrl-B.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

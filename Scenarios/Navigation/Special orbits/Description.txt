@@ -1,3 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A collection of interesting orbits.
-END_DESC
+</body>
+END_HYPERDESC

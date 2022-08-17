@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Long Duration Exposure Facility (LDEF)
 
 Deployed in orbit on April 7, 1984 by Shuttle Challenger and intended for
@@ -9,4 +10,5 @@ before it would have re-entered the Earth's atmosphere and would have been
 destroyed.
 
 LDEF mesh by Don Gallagher.
-END_DESC
+</body>
+END_HYPERDESC

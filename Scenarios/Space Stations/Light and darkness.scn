@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Sunrise in space: See the International Space Station emerge from Earth's shadow.
 
 Orbiter now supports shadowing of vessels by planets.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

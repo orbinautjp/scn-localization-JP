@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Orbiter's rigid body model in action. Check how the angular
 momentum oscillates between the principal axes of the glider. Try the
 "Killrot" navmode sequence (Numpad-5) for a nice firework of attitude
 thrusters. Killrot is a very useful tool in many situations.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

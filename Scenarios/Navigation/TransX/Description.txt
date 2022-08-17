@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 These scenarios demonstrate the use of the TransX interplanetary navigation
 MFD by Duncan Sharpe.
 
@@ -9,4 +10,5 @@ the Modules tab.
 
 Documentation for TransX can be found in the Doc folder:
 TransXmanualv3, TransX quickstart and deepspacemanual.
-END_DESC
+</body>
+END_HYPERDESC

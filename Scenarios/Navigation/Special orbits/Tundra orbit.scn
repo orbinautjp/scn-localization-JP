@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 This is a highly elliptic geosynchronous orbit with an orbital period of one siderial day (23 hours, 56 minutes 4 seconds). This type of orbit allows to "park" a satellite at high latitudes for extended periods of time, when it moves through its apoapsis.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

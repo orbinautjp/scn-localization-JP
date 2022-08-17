@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Checklist mission 1. Launch the Delta-glider from Kennedy Space Center, and dock with the International Space Station.
 
 
 For a step-by-step tutorial, see the Orbiter Manual, or ingame help (Alt-F1) during the simulation.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

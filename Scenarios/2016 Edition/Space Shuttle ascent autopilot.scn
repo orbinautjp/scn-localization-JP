@@ -1,5 +1,7 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Space Shuttle ascent autopilot</h1>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

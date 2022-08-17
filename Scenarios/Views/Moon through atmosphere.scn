@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 New additive rendering of objects through atmospheric layers.
 The Moon now looks much more realistic from the surface of Earth during the daytime.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

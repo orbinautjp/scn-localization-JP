@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 It is not quite the Station-V from 2001: Odyssee in Space (which is available as a 3rd party addon), but the principle is the same: Dock the Shuttle-A freighter at the docking port in the hub of the rotating station.
 The rotation has already be synchronised to make your life easier.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

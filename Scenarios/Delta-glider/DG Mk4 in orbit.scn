@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Take control of the latest version of the Delta-glider in orbit.
 A good opportunity to get familiar with the new panel layout, in particular the revised engine gimbal controls.
 
@@ -7,7 +8,8 @@ Also try out the new virtual cockpit mode by pressing F8.
 Note that this is the standard DG edition of the new Delta-glider, so the scramjet-specific controls of the DG-S version are missing here.
 
 Don't forget to have a look out of the cockpit to see the new and improved rendering of Earth's atmospheric haze.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

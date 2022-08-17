@@ -1,4 +1,5 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Demos</h1>
 <p>The scenarios in this folders are called up randomly in Demo mode.</p>
 
@@ -6,4 +7,5 @@ BEGIN_HYPERDESC
 DemoMode entry to TRUE.</p>
 
 <p>You can also launch these scenarios manually in standard mode.</p>
+</body>
 END_HYPERDESC

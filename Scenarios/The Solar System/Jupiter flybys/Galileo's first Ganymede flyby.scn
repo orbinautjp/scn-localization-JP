@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 On June 27, 1996 the Galileo Spacecraft made its first flyby of Jupiter's largest moon, Ganymede.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
 System Sol

@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Prepare for an early morning launch with Space Shuttle Atlantis. The sun has
 not yet risen at the Cape, but you will catch the first rays of the morning
 sun on your way to orbit!
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 On September 6, 1996 the Galileo Spacecraft passed even closer to Ganymede's surface during its second flyby of this icy world.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
 System Sol

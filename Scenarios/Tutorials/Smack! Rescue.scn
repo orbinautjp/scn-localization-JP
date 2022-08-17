@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Smack! Rescue is the starting scenario for a 9-minute flight recording playback based on the original supplied scenario "Smack!" which is still found in the Delta-glider folder.  
 
 
@@ -6,7 +7,8 @@ This annotated playback shows and describes the events in the first part of chap
 
 
 Note that the axial rotation of the two approaching Delta Gliders in this scenario has no special utility other than it looks pretty cool.  If you were in a real spacecraft spinning like this, you probably would not enjoy it for very long!
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

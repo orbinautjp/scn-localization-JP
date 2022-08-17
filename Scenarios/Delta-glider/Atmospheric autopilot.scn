@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 This scenario provides a guided tour of the Delta-glider atmospheric autopilot functions. Make sure that the "Lua MFD" module is activated under the "Modules" tab.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

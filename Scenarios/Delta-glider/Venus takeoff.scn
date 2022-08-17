@@ -1,10 +1,12 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Launch the delta-glider from Venus and see how it handles under extreme dynamic pressures.
 
 
 Warning: You must disable the complex flight model for this scenario, otherwise your engines will not work under the enormous atmospheric pressure at the
 Venus surface.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

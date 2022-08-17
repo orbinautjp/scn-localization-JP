@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A sun-synchronous orbit is a near-polar orbit with an inclination of slightly
 more than 90 degrees. At this inclination, the line of nodes moves at a rate
 of 360 degrees per year (nearly 1 degree per day), due to the nonspherical
@@ -10,7 +11,8 @@ In this example, the orbit is set up to continuously move along the Earth's term
 
 
 Note: You must activate "nonspherical gravity sources" in the Launchpad for this scenario to work!
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Launch the Space Shuttle from Kennedy Space Center to retrieve the LDEF
 satellite from orbit.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

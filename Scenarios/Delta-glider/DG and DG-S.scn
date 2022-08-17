@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A standard DG Mk4 (left) and a scramjet DG-S (right) showing off their animations. Note the air intakes under the fuselage of the DG-S. Open the
 control panel (Ctrl-Space) to play with the various elements, or hop into
 the cockpit (F1) and use the mouse to operate the glider.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 On November 25, 1999, less than 2 months plunging through Jupiter's intense radiation to get some close-up pictures of Io, Galileo does it again!
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
 System Sol

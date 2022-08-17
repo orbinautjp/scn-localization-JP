@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The attitude of an object can be stabilised by spinning it rapidly around
 one of its axes of symmetry.
 In this scenario, two rockets are placed in a low orbit. One is spinning
@@ -13,7 +14,8 @@ Editor) and see what happens.
 
 This scenario requires gravity gradient torque enabled in the "Parameters" tab
 of the Orbiter Launchpad.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

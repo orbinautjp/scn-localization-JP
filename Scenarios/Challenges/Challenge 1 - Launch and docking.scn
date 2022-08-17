@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Challenge scenario: Launch the Delta-glider to orbit and dock with the ISS,
 using as little fuel as possible.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

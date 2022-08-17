@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Burn-up? What burn-up? Space station Mir is back in orbit. Mir's orbital plane has been rotated to make it an ideal platform for lunar transits.
 
 Mir model by Jason Benson (agent036).
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

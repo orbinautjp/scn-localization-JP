@@ -1,9 +1,11 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Homeworld: The Blue Planet.</h1>
 <p>A list of sights and places can be selected from the Preset list of the Camera
 dialog (Ctrl-F1).</p>
 <p>For most spectacular results, make sure you have a high-resolution Earth texture
 packs installed.</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

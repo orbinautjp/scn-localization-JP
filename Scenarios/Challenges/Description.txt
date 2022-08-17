@@ -1,4 +1,5 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Orbiter Challenges</h1>
 
 <p>A set of flight missions that will challenge your planning and navigation
@@ -7,4 +8,5 @@ mission within the specified parameters.</p>
 
 <p>Beat yourself to the highscore, or compare your performance with other
 users!</p>
+</body>
 END_HYPERDESC

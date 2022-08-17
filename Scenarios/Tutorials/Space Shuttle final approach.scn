@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Tutorial playback scenario:
 
 
@@ -6,7 +7,8 @@ Space Shuttle Atlantis on final approach to the landing facility at Kennedy Spac
 
 
 Playback duration: 3min 55sec.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

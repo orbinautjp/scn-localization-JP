@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Solar sail</h1>
 <p>Initial test for a solar sail. Demonstrator for radiation pressure effects. Make sure to enable 'Radiation pressure' in the Launchpad Parameters tab.</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Replay recorded missions</h1>
 <p>This folder contains playbacks of missions you have recorded earlier.</p>
+</body>
 END_HYPERDESC

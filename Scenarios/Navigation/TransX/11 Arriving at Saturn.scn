@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 We have an orbit insertion burn set up as a maneuver in the Saturn encounter stage. You must have the maneuver view in stage 1, then forward to stage 2 to see the maneuver variables. 
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

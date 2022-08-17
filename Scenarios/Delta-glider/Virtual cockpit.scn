@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 After launching this scenario, click the right mouse button and drag the mouse to look around in the cockpit.
 Check out the various instruments, controls and the head-up display. Use F8 to
 switch to different cockpit modes. For more info on the Delta-glider, open
 help (Alt-F1) during the simulation, and click on the Vessel tab.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

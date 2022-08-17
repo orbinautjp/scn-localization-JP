@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Entering a true orbit around the Mars moon Phobos is not possible even at low altitude, because its
 weak gravity is entirely dominated by the gravitational field of the much more
 massive Mars.
@@ -9,7 +10,8 @@ eccentricity.
 
 
 Try also time acceleration and the external preset view (Ctrl-F1, Preset).
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

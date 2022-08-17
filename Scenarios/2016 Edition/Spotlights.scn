@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Spotlights</h1>
 <p>A demonstration of spotlight support in Orbiter. A DeltaGlider with its docking lights is rotating in front of the ISS, as both enter Earth's shadow.</p>
 <p>Make sure that <i>Local light sources</i> is enabled under the <i>Visual effects</i> tab before running this scenario.</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

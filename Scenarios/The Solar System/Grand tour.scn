@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A few vistas from around our Solar System. To visit them, launch Orbiter, then open the Camera
 dialog (Ctrl-F1), click the Preset button, and select views from the list.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

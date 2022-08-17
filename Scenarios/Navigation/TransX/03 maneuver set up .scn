@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Using the required delta-v, a maneuver has been set up and laid on top of the eject plan. You can tweak the date of the maneuver (use ultra increment) to see the maneuver move around.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

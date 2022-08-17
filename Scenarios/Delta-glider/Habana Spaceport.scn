@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Launch the glider from Habana spaceport at dusk.
 You can either take off directly from the pad with your hover engines, or taxi to the runway and use main engines.
 
 This DG-S is equipped with scramjet engines which can be operated at airspeeds between Mach 3-8.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

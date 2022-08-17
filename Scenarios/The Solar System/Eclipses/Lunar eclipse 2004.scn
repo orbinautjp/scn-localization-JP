@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The Lunar eclipse of October 27/28, 2004.
 Watch from the lunar surface as the Earth covers the face of the Sun.
 
@@ -6,7 +7,8 @@ You can speed up the simulation by using time acceleration (T). Use
 planetarium mode (F9) to locate the dark disc of Earth.
 
 Note Mercury (the dim red dot) in the lower left corner of the screen.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

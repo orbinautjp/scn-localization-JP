@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>Satellites and probes</h1>
 <p>A collection of Space Shuttle missions with the Hubble Space Telescope (HST) and Long Duration Exposure Facility (LDEF).</p>
+</body>
 END_HYPERDESC

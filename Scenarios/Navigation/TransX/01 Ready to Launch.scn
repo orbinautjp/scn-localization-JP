@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 On KSC runway 33 ready to go to Jupiter with sling to Saturn. Launch plan has required right turn to about 89 degrees heading and target orbit  is 200Km by 200 Km agl.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

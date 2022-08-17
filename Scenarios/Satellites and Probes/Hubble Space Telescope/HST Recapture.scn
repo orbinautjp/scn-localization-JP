@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The Hubble Space Telescope is due for major maintenance work and refitting on Earth.
 Move Atlantis into position using linear RCS thrusters, and grapple with the manipulator arm.
 Switch focus to the HST to retract solar arrays, antennae and telescope hatch, then stow
 the telescope in the Shuttle cargo bay. Return your valuable payload back to KSC.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

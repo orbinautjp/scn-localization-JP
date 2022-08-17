@@ -1,6 +1,8 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 In stage 2 the plan variables have been set to zero allowing only the maneuver to remain. The maneuver is tweaked to make a good eject to Jupiter. The ship is rotated to aim at the center of the directional target and the burn is coming  up in just a few seconds.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

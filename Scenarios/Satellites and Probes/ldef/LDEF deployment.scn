@@ -1,7 +1,9 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Deploy the LDEF satellite in orbit using the manipulator arm (Ctrl-Space).
 Return the Shuttle back to Kennedy Space Center.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

@@ -1,8 +1,10 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A view of the Jovian system with Jupiter and the four major moons Io, Europa, Ganymede and Callisto.
 
 Orbiter now uses semi-analytic perturbation solutions to provide long-term stability of positions for the Jovian system. Simply turn on the planet labels (F9), switch to 100000x time acceleration, and watch.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

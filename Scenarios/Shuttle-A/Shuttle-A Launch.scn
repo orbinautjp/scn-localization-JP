@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A Shuttle-A class transport vessel is ready for take-off from Habana International Spaceport.
 
 This vessel class is primarily used for orbital operations and low-gravity low-atmosphere planet descents.
@@ -13,7 +14,8 @@ As you leave the lower atmosphere and gather speed, reduce your climb angle and 
 thrust.
 
 You should just about be able to make LEO before running out of fuel.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

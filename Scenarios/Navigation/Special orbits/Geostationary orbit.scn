@@ -1,4 +1,5 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 A geostationary orbit is a circular orbit above Earth's equator (inclination 0
 degrees) whose orbital period is equal to the length of a siderial day (23 hours,
 56 minutes and 4 seconds). This corresponds to a semi-major axis of about
@@ -10,7 +11,8 @@ communication satellites.
 In this scenario, a glider is placed in a geostationary orbit above Africa's east
 coast. Note that the vessel indicator in the Map MFD does not move. Try opening
 a surface MFD and check the ground speed readout.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

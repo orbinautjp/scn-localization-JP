@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>The Solar System</h1>
 <p>Visit the celestial bodies of the solar system.</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

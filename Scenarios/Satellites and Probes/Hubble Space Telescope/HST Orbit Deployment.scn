@@ -1,10 +1,12 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 The Hubble Space Telescope is being pulled out of the Shuttle Cargo Bay.
 Complete the deployment operation using the Manipulator Arm control pad
 (Ctrl-Space). After detaching the telescope, switch focus (F3) to the HST
 and unfold the solar arrays (Ctrl-3), deploy the high-gain antennae (Ctrl-1),
 and open the main telescope hatch (Ctrl-2).
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

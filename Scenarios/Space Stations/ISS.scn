@@ -1,9 +1,11 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>International Space Station</h1>
 
 <p>Start the Simulator with Atlantis docked to the ISS. The Leonardo mplm is in the Atlantis cargo bay.</p>
 
 <p>ISS model by Andrew Farnaby (F-A-D).</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

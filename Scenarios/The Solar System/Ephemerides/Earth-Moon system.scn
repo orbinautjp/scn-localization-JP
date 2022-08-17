@@ -1,9 +1,11 @@
-BEGIN_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 Earth and Moon. Lunar ephemerides now use the ELP2000-82 perturbation solution, improving the accuracy of the Moon's position in Orbiter.
 This provides more precise eclipse timings, and removes the relative motion artefacts of the previous release.
 
 Turn on labels (F9), switch to highest time acceleration, and watch the Moon rotate around Earth.
-END_DESC
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
