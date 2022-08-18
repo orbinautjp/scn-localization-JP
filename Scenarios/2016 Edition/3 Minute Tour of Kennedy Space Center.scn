@@ -1,14 +1,13 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Orbiter 2016: A quick aerial tour of Kennedy Space Center</h1>
-<p>Here is a playback to showcase the new look of the KSC in the latest Orbiter edition: higher resolution surface textures, vegetation roughness, improved water surfaces and remodelled launch pads.</p>
+<h1>Orbiter2016で、ケネディ宇宙センターを観光しよう</h1>
+<p>このシナリオは自動再生されます。最新のOrbiterでは、地表のテクスチャの高解像度化、草木の再現、水面の表現の改善、発射台の3Dモデルの改良がおこなわれています。</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57438.6686216879
-  Help Default\KSCtour2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

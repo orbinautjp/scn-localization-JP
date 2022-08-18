@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Spotlights</h1>
-<p>A demonstration of spotlight support in Orbiter. A DeltaGlider with its docking lights is rotating in front of the ISS, as both enter Earth's shadow.</p>
-<p>Make sure that <i>Local light sources</i> is enabled under the <i>Visual effects</i> tab before running this scenario.</p>
+<h1>ゲーム内の光源</h1>
+<p>ゲーム内で利用可能な光源について紹介します。デルタグライダーはISSにドッキングライトをISSに向けた状態で回転しており、地球の影に入るところです。</p>
+<p>このシナリオを開始する前に、<i>Visual effects</i>タブを開いて<i>Local light sources</i>にチェックが入っているか確認してください。</p>
 </body>
 END_HYPERDESC
 

@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Earth views in Orbiter 2016</h1>
+<h1>Orbiter2016で見る地球の景色</h1>
+<p>このシナリオは自動再生されます。上空を飛行するグライダーから、さまざまな地球上の地形を鑑賞できます。Orbiter2016で実装された新規テクスチャと標高マップによって、このような表現が可能になりました。</p>
+<p>デフォルトのOrbiterには、低解像度テクスチャしか付属していないことに注意してください。<a href="http://orbit.medphys.ucl.ac.uk" target="_blank">Orbiterのホームページ</a>にアクセスすると、高解像度テクスチャがダウンロードできます。HDD・SSDの空き容量が足りているか事前に確認してください！</p>
 </body>
 END_HYPERDESC
 
@@ -8,7 +10,6 @@ BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57451.2987058334
   Script earthview2016
-  Help Default\Earthview2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

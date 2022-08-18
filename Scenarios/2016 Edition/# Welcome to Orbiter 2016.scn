@@ -1,6 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Welcome to Orbiter 2016!</h1>
+<h1>Orbiter2016へようこそ！</h1>
+<p>Orbiter Space Flight Simulatorの最新版へようこそ。Orbiter2016では、起伏のある地形、惑星表面と雲のテクスチャを高解像度化、水面の表現など、様々な面でグラフィックが改善されています。</p>
+<p>目に見えない部分では、物理エンジンも再設計され、宇宙船と地面との接触、タイムステップのサブサンプリングなどが改良されています。</p>
+<p>デフォルトで収録されている宇宙船のいくつかは、コクピットやサブシステムが改良されています。</p>
+<p>このシナリオを実行すると、新バージョンの機能を紹介するツアーが自動再生されます。</p>
 </body>
 END_HYPERDESC
 
@@ -8,7 +12,6 @@ BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57457.6602778935
   Script welcome2016
-  Help Default\Welcome2016,Index
   Playback Welcome to Orbiter 2016
 END_ENVIRONMENT
 

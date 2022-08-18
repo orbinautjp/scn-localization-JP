@@ -1,14 +1,14 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Orbiter 2016: Across the Alps</h1>
-<p>Fly across the Alps in a Delta-glider and enjoy the new surface elevation support.</p>
+<h1>Orbiter2016でアルプスを越える</h1>
+<p>最新のOrbiterでは、惑星上で起伏のある地形を再現できるようになりました。デルタグライダーに乗って、3Dになったアルプスの上空を飛んでみましょう。
+</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.4209378035
-  Help Default\Alps2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS
