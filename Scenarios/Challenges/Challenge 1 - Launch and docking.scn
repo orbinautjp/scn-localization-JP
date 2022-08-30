@@ -1,14 +1,21 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Challenge scenario: Launch the Delta-glider to orbit and dock with the ISS,
-using as little fuel as possible.
+<h1>チャレンジミッション 1</h1>
+<p>デルタグライダーを操縦し、できるだけ少ない燃料でISSに到達することが、このミッションの目的となる。</p>
+<p>ケネディ宇宙センターの33番滑走路から離陸し、周回軌道に乗り、ランデブーして、ISS（国際宇宙ステーション）にドッキングする。できるだけ燃料消費を小さくすることで、チャレンジ達成となる。</p>
+<p>ゲーム開始からしばらくすると、打ち上げのタイミングになる。画面右側のMap MFDでは、ISSの軌道面（黄色い線）が打ち上げ地点（白い十字）をまもなく通過するところだ。ここで打ち上げると、軌道面のずれが小さい軌道に投入できるため、軌道面変更のための燃料を節約できる。</p>
+<p>デルタグライダーを離陸させ、北東方向に旋回してISSの軌道面に近づける。地上近くでは
+大気の抵抗が大きいため、急角度で上昇する。</p>
+<p>上昇したら迎え角を下げて、高度を維持しつつ水平方向に加速する。高度200km付近で第一宇宙速度（約 7800 m/s）に到達させる。</p>
+<p>Align MFDとSync Orbit MFDを利用して、ISSとランデブーする。</p>
+<p>Docking MFDを使ってISSとドッキングする。</p>
+<p>最初は難しいかもしれないが、自分の（そして作者の）ハイスコアを更新できるまで挑戦してみよう。</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 52199.6667303507
-  Help Default\Challenges\Challenge1,Index
   Script challenges/challenge1
 END_ENVIRONMENT
 
