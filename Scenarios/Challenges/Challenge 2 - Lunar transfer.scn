@@ -12,7 +12,6 @@ END_HYPERDESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD ;
-  Help Default\Challenges\Challenge2,Index
   Script challenges/challenge2
 END_ENVIRONMENT
 
