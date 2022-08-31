@@ -1,16 +1,14 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Checklist mission 1. Launch the Delta-glider from Kennedy Space Center, and dock with the International Space Station.
-
-
-For a step-by-step tutorial, see the Orbiter Manual, or ingame help (Alt-F1) during the simulation.
+<h1>チェックリストミッション 1 デルタグライダーでISSへ</h1>
+<p>ケネディ宇宙センターからデルタグライダーを打ち上げて、国際宇宙ステーションとドッキングする。</p>
+<p><a href="https://orbinautjp.github.io/tutorial/" target="_blank" rel="noopener noreferrer">Orbiterチュートリアル</a>にて、詳しい手順を解説しています。</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.5619320174
-  Help Default\Checklists\Checklist1,Checklist1
 END_ENVIRONMENT
 
 BEGIN_FOCUS

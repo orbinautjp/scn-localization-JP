@@ -1,17 +1,16 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-For newcomers eager to get off the ground: This is the starting scenario for the Quickstart mission in the Orbiter Manual.
-
-Launch your Delta-glider from the Shuttle Landing Facility at the Kennedy Space Center.
-
-The Quickstart tutorial is available during the simulation by opening the Help window (Alt-F1) and selecting the Scenario button.
+<h1>クイックスタート</h1>
+<p>ケネディ宇宙センターのスペースシャトル着陸用滑走路で、デルタグライダーが打ち上げのときを待っている。</p>
+<br>
+<p>このシナリオでは、自由に宇宙船を飛行させたり、カメラを移動させたり、などの練習ができます。</br>
+<a href="https://orbinautjp.github.io/basic/orbitercontrol.html" target="_blank" rel="noopener noreferrer">Orbiterの基本操作</a></p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 55269.6701854908
-  Help Default\Checklists\Quickstart,Quickstart
 END_ENVIRONMENT
 
 BEGIN_FOCUS

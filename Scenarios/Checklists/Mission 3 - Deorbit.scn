@@ -1,16 +1,13 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Checklist mission 3. Undock from MIR, deorbit and return to the Kennedy Space Center.
-
-
-For a step-by-step tutorial, see the Orbiter Manual, or ingame help (Alt-F1) during the simulation.
+<h1>チェックリストミッション 3 ミールから地上へ</h1>
+<p>ミールを離脱し、再突入してケネディ宇宙センターに帰還する。</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.8817581169
-  Help Default\Checklists\Checklist3,Checklist3
 END_ENVIRONMENT
 
 BEGIN_FOCUS

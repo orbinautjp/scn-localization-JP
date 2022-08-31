@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Checklists</h1>
-<p>This folder contains starting situations for the checklist missions described in the manual.</p>
+<h1>チェックリストミッション</h1>
+<p>このフォルダには、マニュアル(Orbiter.pdf)に掲載されているチェックリストミッションが収録されている。</p>
 </body>
 END_HYPERDESC
