@@ -1,13 +1,12 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Take control of the latest version of the Delta-glider in orbit.
-A good opportunity to get familiar with the new panel layout, in particular the revised engine gimbal controls.
-
-Also try out the new virtual cockpit mode by pressing F8.
-
-Note that this is the standard DG edition of the new Delta-glider, so the scramjet-specific controls of the DG-S version are missing here.
-
-Don't forget to have a look out of the cockpit to see the new and improved rendering of Earth's atmospheric haze.
+<p>
+  最新型のデルタグライダーが軌道上で待機しています。さっそく動かしてみましょう。<br>
+  2Dパネルのレイアウトが変更され、エンジンのジンバルを操作できるようになりました。
+</p>
+<p>F8キーを押すと、3Dコクピットに変更できます。</p>
+<p>このシナリオで利用できるのは通常型のデルタグライダーです。スクラムジェット搭載型のDG-Sでは一部の操作が異なります。</p>
+<p>また、地球の大気を透かして見える日光の表現も改善されています。コクピットから「宇宙の夜明け」を眺めてみましょう。</p>
 </body>
 END_HYPERDESC
 

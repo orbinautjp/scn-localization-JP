@@ -1,10 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-You are descending into the thick atmosphere of Venus.
-
-If you have selected the complex flight model, then the high atmospheric pressure at lower altitudes will render your engines ineffective,
-and below an altitude of about 40km they will stop producing thrust altogether.
-So if you want to keep airborne, you need to stabilise your orbit soon.
+<p>グライダーは金星の厚い大気へと降下中です。</p>
+<p>
+  complex flight modelを有効にすると、低高度では高い気圧によってエンジンの出力が低下し、高度40km以下では推力が完全に失われます。<br>
+  落下したくなければ、エンジンを噴射して高度を回復させてください。
+</p>
 </body>
 END_HYPERDESC
 

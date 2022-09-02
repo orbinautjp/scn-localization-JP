@@ -1,9 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Orbiter's rigid body model in action. Check how the angular
-momentum oscillates between the principal axes of the glider. Try the
-"Killrot" navmode sequence (Numpad-5) for a nice firework of attitude
-thrusters. Killrot is a very useful tool in many situations.
+<p>Orbiterの剛体モデルを紹介するシナリオです。グライダーの回転する方向が周期的に変化する様子を観察できます。</p>
+<p>Killrotオートパイロット（テンキー5）を使用すると、姿勢制御スラスターに点火します。さまざまな状況で活用できる機能です。</p>
 </body>
 END_HYPERDESC
 

@@ -1,7 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Use the joystick or keyboard cursor controls to see the Glider's elevons and rudder at work.
-The airbrake can be deployed with Ctrl-B.
+<h1>動翼を動かす</h1>
+<p>
+  ジョイスティックもしくはテンキーを使って、エルロンやラダーを動かしてみましょう。</br>
+  Ctrl+Bでエアブレーキを展開します。
+</p>
 </body>
 END_HYPERDESC
 

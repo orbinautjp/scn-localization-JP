@@ -1,6 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-This scenario provides a guided tour of the Delta-glider atmospheric autopilot functions. Make sure that the "Lua MFD" module is activated under the "Modules" tab.
+<h1>大気圏内オートパイロット</h1>
+<p>
+  デルタグライダーの大気圏内オートパイロットについて紹介するチュートリアルです。<br>
+  <b>Modules</b>タブを開いて、<b>Lua MFD</b>にチェックを入れてください。<br>
+  訳注：ゲーム内の字幕は翻訳されていません。
+</p>
 </body>
 END_HYPERDESC
 

@@ -1,9 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-After launching this scenario, click the right mouse button and drag the mouse to look around in the cockpit.
-Check out the various instruments, controls and the head-up display. Use F8 to
-switch to different cockpit modes. For more info on the Delta-glider, open
-help (Alt-F1) during the simulation, and click on the Vessel tab.
+<p>
+  ゲームを開始したら、右マウスドラッグでコクピットの内部を見回してみましょう。<br>
+  コクピットには、さまざまな計器、ボタンやレバー、HUDが配置されています。F8を押すと、コクピットのモードを変更できます。
+</p>
+<p>Alt+F1を押してヘルプを開き、Vesselタブをクリックすると詳しい情報を参照できます（未翻訳）。</p>
 </body>
 END_HYPERDESC
 

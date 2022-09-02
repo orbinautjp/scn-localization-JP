@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The generic "glass cockpit" view has been extended with mouse-activated buttons for MFD displays, RCS and nav modes.
+<p>3Dコクピットないし2Dパネルは、F8キーを押して非表示にできます（"glass cockpit" = 「ガラスのように透明なコクピット」）。この状態でも、マウスを使ってMFDを操作したり、RCSなどの切り替えが可能です。</p>
 </body>
 END_HYPERDESC
 

@@ -1,9 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Launch the glider from Habana spaceport at dusk.
-You can either take off directly from the pad with your hover engines, or taxi to the runway and use main engines.
-
-This DG-S is equipped with scramjet engines which can be operated at airspeeds between Mach 3-8.
+<p>
+  夕暮れのハバナから、デルタグライダーを打ち上げましょう。<br>
+  そのままホバーエンジンで離陸できますが、滑走路までタキシングしてメインエンジンで離陸することもできます。
+</p>
+<p>DG-Sにはスクラムジェットエンジンが搭載されています。マッハ3以上、マッハ8以下の範囲で使用できます。</p>
 </body>
 END_HYPERDESC
 

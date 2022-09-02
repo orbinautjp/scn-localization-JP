@@ -1,9 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The Scramjet delta-glider (DG-S) is ready for takeoff from runway 33 of the
-Shuttle Landing Facility (SLF) at Kennedy Space Center.
-
-Take off using main engines and climb to 10km. Then try the air-breathing scramjet engines and test the performance for different speeds and altitudes.
+<p>ケネディ宇宙センターのスペースシャトル着陸用33番滑走路では、スクラムジェット搭載型デルタグライダー(DG-S)が離陸のときを待っています。</p>
+<p>メインエンジンに点火し、高度10kmまで上昇してください。目標高度に到達したらスクラムジェットエンジンに点火（Altを押しながら+）。速度と高度を変更しながら、スクラムジェットの性能を確認してみましょう。</p>
 </body>
 END_HYPERDESC
 

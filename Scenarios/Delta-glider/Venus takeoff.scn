@@ -1,10 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Launch the delta-glider from Venus and see how it handles under extreme dynamic pressures.
-
-
-Warning: You must disable the complex flight model for this scenario, otherwise your engines will not work under the enormous atmospheric pressure at the
-Venus surface.
+<p>金星からデルタグライダーを離陸させて、高気圧下での操縦を体験しましょう。</p>
+<p>注意：complex flight modelが有効になっていると、金星地表での高い気圧のためエンジンが機能しません。</p>
 </body>
 END_HYPERDESC
 
