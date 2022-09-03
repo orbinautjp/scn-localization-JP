@@ -1,11 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Demos</h1>
-<p>The scenarios in this folders are called up randomly in Demo mode.</p>
+<h1>デモモード用 シナリオ集</h1>
+<p>Orbiterをデモモードで起動すると、これらのシナリオがランダムで実行されます。</p>
 
-<p>To start Orbiter in Demo mode, edit the Orbiter.cfg file and set the
-DemoMode entry to TRUE.</p>
+<p>Orbiter.cfgを編集して、DemoMode = TRUEにするとデモモードが有効になります。<br>
+訳注：Launchpadを開いて放置すると、自動でゲーム開始・終了を繰り返します。</p>
 
-<p>You can also launch these scenarios manually in standard mode.</p>
+<p>デモモード用のシナリオは、通常モードでも利用できます。</p>
 </body>
 END_HYPERDESC

@@ -1,11 +1,15 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Orbiter now supports higher resolution planetary textures (level 9, up to 32768x16384 effective bitmap size).
-The standard Orbiter distribution contains level 9 coverage for the Gulf of Mexico area. To get full land coverage,
-you must download and install the additional Earth super-hires texture pack.
-The new Earth textures also contain a new land-sea mask with improved inland water surface data.
-
-To see more hi-res Earth views, open the Camera dialog (Ctrl-F1) and select from the Preset list.
+<p>
+  より高画質なテクスチャを惑星の表面に適用できるようになりました（レベル9の上限サイズがビットマップで32768x16384）。<br>
+  訳注：Orbiter2016では最高でレベル19のテクスチャが導入可能です。
+</p>
+<p>
+  Orbiterの配布ファイルには、メキシコ湾岸地域のレベル9テクスチャが同梱されています。<br>
+  地球全体を高画質化する場合は、高画質テクスチャパックをダウンロードして導入してください。<br>
+  新しくなった地球の地表テクスチャでは、内陸部の湖なども水面として表現されるようになりました。
+</p>
+<p>Ctrl+F1を押してダイアログを開き、Presetリストで各地の観測地点をダブルクリックすると、カメラの位置を変更できます。</p>
 </body>
 END_HYPERDESC
 

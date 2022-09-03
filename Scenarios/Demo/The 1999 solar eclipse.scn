@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Orbiter now has improved ephemeris calculations for planetary and lunar positions. Eclipses finally occur at the correct times!
+<p>
+  Orbiterの天体暦が改善され、惑星や月の位置をより正確に計算できるようになりました。<br>
+  正しい時間に日食が起きるようになりました。
+</p>
 </body>
 END_HYPERDESC
 
