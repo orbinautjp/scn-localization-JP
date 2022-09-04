@@ -2,7 +2,6 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>クイックスタート</h1>
 <p>ケネディ宇宙センターのスペースシャトル着陸用滑走路で、デルタグライダーが打ち上げのときを待っている。</p>
-<br>
 <p>このシナリオでは、自由に宇宙船を飛行させたり、カメラを移動させたり、などの練習ができます。</br>
 <a href="https://orbinautjp.github.io/basic/orbitercontrol.html" target="_blank" rel="noopener noreferrer">Orbiterの基本操作</a></p>
 </body>
