@@ -1,10 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Dragonfly scenarios</h1>
-<p>The Dragonfly class is a small utility vessel designed for moving payload in orbit.
-It is controlled via the RCS engines located in the two side pods and aft pod.</p>
-
-<p>The Dragonfly has been jointly developed by Roger Long, Radu Poenaru and Martin Schweiger.
-The Operations Handbook is essential reading for all Dragonfly pilots!</p>
+<h1>ドラゴンフライ宇宙船</h1>
+<p>ドラゴンフライは軌道上での荷役作業に従事する作業船です。側面と後方のRCSポッドで移動します。</p>
+<p>ドラゴンフライ宇宙船は<i>Roger Long</i>、<i>Radu Poenaru</i>、<i>Martin Schweiger</i>の三人の協力のもとで開発されました。操作方法については、Dragonfly.pdf（未翻訳）を参照してください。</p>
+<p>訳注：Orbiter2016では一部の機能に不具合があります。</p>
 </body>
 END_HYPERDESC

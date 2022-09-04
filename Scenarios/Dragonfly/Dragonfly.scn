@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The Dragonfly, a versatile orbital payload pusher. To familiarise yourself with Radu Poenaru's panels and systems simulation, see the Dragonfly Operations Handbook.
+<p>ドラゴンフライは軌道上のペイロードを運搬する多目的船です。2Dパネルは<i>Radu Poenaru</i>によって開発されました。操作についてはDragonfly.pdf（未翻訳）を参照してください。</p>
 </body>
 END_HYPERDESC
 
