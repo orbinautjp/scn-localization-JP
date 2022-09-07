@@ -1,6 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-In stage 2 the plan variables have been set to zero allowing only the maneuver to remain. The maneuver is tweaked to make a good eject to Jupiter. The ship is rotated to aim at the center of the directional target and the burn is coming  up in just a few seconds.
+<h1>Planを初期化する</h1>
+<p>Stage 2でPlanの変数を初期化したので、マニューバだけが表示されるようになっています。
+また、木星に到達できるようマニューバを調整してあります。
+姿勢制御も完了し、数秒後にはエンジン噴射を開始します。</p>
+<p>訳注：最新版のTransXを利用する場合、Auto-centerを有効にしてください。</p>
 </body>
 END_HYPERDESC
 

@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-We have an orbit insertion burn set up as a maneuver in the Saturn encounter stage. You must have the maneuver view in stage 1, then forward to stage 2 to see the maneuver variables. 
+<h1>土星到着</h1>
+<p>Stage 2の土星到着画面に軌道投入噴射のマニューバが設定されています。ゲーム開始時にはStage 1が表示されていますが、Stage 2に移行するとマニューバを確認できます。</p>
+<p>訳注：このシナリオではTransXの特殊な使い方をしているので注意してください。通常は土星の重力圏内に入ってから軌道投入噴射の準備をします。</p>
 </body>
 END_HYPERDESC
 

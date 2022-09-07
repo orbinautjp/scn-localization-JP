@@ -1,14 +1,16 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Molniya orbits are highly eccentric Earth orbits with periods of approximately 12 hours (2 revolutions per day).
-The orbital inclination is chosen so the rate of change of perigee is zero, thus both apogee and perigee can be maintained over fixed latitudes.
-This condition occurs at inclinations of 63.4 degrees and 116.6 degrees.
-For these orbits the argument of perigee is typically placed in the southern hemisphere, so the satellite remains above the northern hemisphere near apogee for approximately 11 hours per orbit.
-This orientation can provide good ground coverage at high northern latitudes.
-(from: Orbital, Mechanics, http://www.braeunig.us/space/orbmech.htm)
-
-
-The orbit in this example places a Dragonfly once a day alternatingly above North America and above central Asia.
+<h1>モルニヤ軌道</h1>
+<p>
+  モルニヤ軌道とは、地球のまわりをおよそ12時間で1周（1日に2周）する、軌道離心率が大きい軌道のことを指します。<br>
+  近地点の移動がゼロになるような軌道傾斜角に設定されており、近地点・遠地点のどちらも同じ緯度に固定されることになります。<br>
+  これが実現されるのは、軌道傾斜角が63.4°、もしくは116.6°のときです。<br>
+  これらの軌道では、一般的に近地点引数は南半球に設定され、軌道を1周するごとに北半球上空の遠地点近くに11時間ほど留まることになります。<br>
+  これによって、高緯度地域の地表を長時間カバーすることができます。<br>
+  （出典：Orbital, Mechanics, <a href="http://www.braeunig.us/space/orbmech.htm" target="_blank" rel="noopener noreferrer">
+  http://www.braeunig.us/space/orbmech.htm</a>）
+</p>
+<p>このシナリオでは、1日にそれぞれ1度ずつ北米と中央アジアの上空に到達する軌道に、ドラゴンフライ宇宙船が配置されています。</p>
 </body>
 END_HYPERDESC
 

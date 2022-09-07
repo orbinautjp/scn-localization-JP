@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-This is a highly elliptic geosynchronous orbit with an orbital period of one siderial day (23 hours, 56 minutes 4 seconds). This type of orbit allows to "park" a satellite at high latitudes for extended periods of time, when it moves through its apoapsis.
+<h1>ツンドラ軌道</h1>
+<p>ツンドラ軌道は長楕円の対地同期軌道であり、その軌道周期は恒星日（23時間56分04秒）に相当します。
+人工衛星が遠地点近くを移動するとき、高緯度地域の上空に長時間留まらせることができます。</p>
 </body>
 END_HYPERDESC
 

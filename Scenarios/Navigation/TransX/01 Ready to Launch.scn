@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-On KSC runway 33 ready to go to Jupiter with sling to Saturn. Launch plan has required right turn to about 89 degrees heading and target orbit  is 200Km by 200 Km agl.
+<h1>打ち上げ</h1>
+<p>KSCの33番滑走路から打ち上げます。木星でスイングバイを実行し、最終目的地は土星です。
+離陸したら右旋回して方位089に向かい、高度200kmの円軌道に投入してください。</p>
 </body>
 END_HYPERDESC
 

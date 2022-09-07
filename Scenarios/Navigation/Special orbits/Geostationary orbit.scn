@@ -1,16 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A geostationary orbit is a circular orbit above Earth's equator (inclination 0
-degrees) whose orbital period is equal to the length of a siderial day (23 hours,
-56 minutes and 4 seconds). This corresponds to a semi-major axis of about
-42160 km. A satellite placed in such an orbit remains stationary above the same
-point on the equator, which is quite useful for many applications, such as
-communication satellites.
-
-
-In this scenario, a glider is placed in a geostationary orbit above Africa's east
-coast. Note that the vessel indicator in the Map MFD does not move. Try opening
-a surface MFD and check the ground speed readout.
+<h1>静止軌道</h1>
+<p>静止軌道とは、赤道上空を通る（軌道傾斜角が0°の）円軌道のうち、軌道周期が恒星日の長さ（23時間56分04秒）と等しいものを指します。このとき、軌道長半径の長さは42160kmになります。
+このような軌道に配置された人工衛星は、赤道上の同じ位置に留まるので、通信などの様々な目的に応用されています。</p>
+<p>このシナリオでは、デルタグライダーがアフリカ東岸上空の静止軌道に配置されています。
+Map MFDを観察すると、宇宙船の位置が変化しないことがわかります。
+Surface MFDを開いて、対地速度を確認してみましょう。</p>
 </body>
 END_HYPERDESC
 

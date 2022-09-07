@@ -1,6 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Arriving at jupiter to sling to Saturn.
+<h1>木星スイングバイ</h1>
+<p>木星に到達し、土星へのスイングバイを実行します。</p>
 </body>
 END_HYPERDESC
 

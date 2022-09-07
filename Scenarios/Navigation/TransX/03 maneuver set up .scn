@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Using the required delta-v, a maneuver has been set up and laid on top of the eject plan. You can tweak the date of the maneuver (use ultra increment) to see the maneuver move around.
+<h1>マニューバ実行</h1>
+<p>木星スイングバイ・土星到達に必要なDelta Vを満たすマニューバが設定されています。マニューバの時刻を細かく（感度をultraにして）調整して、マニューバがどう変化するか確認してみましょう。</p>
+<p>訳注：最新版のTransXでは、感度をより細かく(hyper, micro)設定できます。</p>
 </body>
 END_HYPERDESC
 

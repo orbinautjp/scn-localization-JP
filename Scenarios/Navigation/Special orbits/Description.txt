@@ -1,5 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A collection of interesting orbits.
+<h1>特殊な軌道</h1>
+<p>科学的に興味深い軌道を集めてみました。</p>
 </body>
 END_HYPERDESC

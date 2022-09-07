@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Solar sail</h1>
-<p>Initial test for a solar sail. Demonstrator for radiation pressure effects. Make sure to enable 'Radiation pressure' in the Launchpad Parameters tab.</p>
+<h1>ソーラーセイル</h1>
+<p>ソーラーセイル（太陽帆）のテストシナリオです。太陽の輻射圧の影響がよくわかります。</p>
+<p><i>Parameters</i>タブを開いて、<i>Radiation pressure</i>にチェックを入れてください。</p>
 </body>
 END_HYPERDESC
 

@@ -1,19 +1,16 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The attitude of an object can be stabilised by spinning it rapidly around
-one of its axes of symmetry.
-In this scenario, two rockets are placed in a low orbit. One is spinning
-around its axis at 1Hz, the other is not. The spinning rocket maintains its
-global orientation, while the other starts to rotate under the influence
-of gravity gradient torque.
-
-Speed up to 100x and watch the behaviour of both rockets.
-
-Try killing the angular velocity of the spinning rocket (using the Scenario
-Editor) and see what happens.
-
-This scenario requires gravity gradient torque enabled in the "Parameters" tab
-of the Orbiter Launchpad.
+<h1>スピン安定</h1>
+<p>
+  軌道上の物体を対称軸上で高速回転させることで、その姿勢を安定させることができます。<br>
+  このシナリオでは、2機のロケットが低軌道に配置されています。
+  1つは1Hzで回転しており、もう片方は静止しています。
+  高速回転するロケットの姿勢は安定していますが、静止しているはずのロケットは重力勾配トルクによって回転を始めてしまいます。
+</p>
+<p>タイムワープ100倍に設定して、2機のロケットを観察しましょう。</p>
+<p>また、（シナリオエディタなどを使って）高速回転を止めた場合についても観察してみましょう。</p>
+<p><i>Parameters</i>タブを開いて、<i>gravity-gradient torque</i>にチェックを入れてください。</p>
+<p>訳注：高速回転した状態ではOrbiterの挙動が不安定になり、ランダムに超高速で回転してしまうことがあります。</p>
 </body>
 END_HYPERDESC
 

@@ -1,0 +1,6 @@
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>月遷移軌道に乗る</h1>
+<p>Transfer MFDを使って、地球低軌道から月まで飛行します。</p>
+</body>
+END_HYPERDESC

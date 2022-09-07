@@ -1,12 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Two connected delta gliders demonstrate the effect of gravitational field
-gradients on distributed vessel masses. The system swings around its tidally
-locked equilibrium state. The camera is pointing towards the centre of the Earth
-to demonstrate the effect more clearly.
-
-Make sure that "gravity-gradient torque" is enabled in the Launchpad dialog.
-Speed up the simulation to 100x.
+<p>
+  結合した状態の2機のデルタグライダーは、それぞれの機体重量の偏りによって、重力勾配の影響を受けます。2機は潮汐ロックされた安定状態で揺れ動くことになります。<br>
+  このシナリオではカメラは地球の中心を向くように固定され、この効果を観察しやすくなっています。
+</p>
+<p><i>Parameters</i>タブを開いて、<i>gravity-gradient torque</i>にチェックを入れてください。<br>
+ゲームを開始したら、タイムワープ100倍に設定してください。</p>
 </body>
 END_HYPERDESC
 

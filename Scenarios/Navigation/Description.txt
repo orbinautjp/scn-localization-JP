@@ -1,7 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Navigation in space</h1>
-<p>Explore different types of orbits, some space physics demos and solve
-interplanetary navigation problems using the Transfer and TransX MFD instruments.</p>
+<h1>宇宙の航海術</h1>
+<p>さまざまな種類の軌道と、宇宙での物理現象を紹介します。また、Transfer MFDとTransX MFDを使用して惑星間飛行に挑戦してみましょう。</p>
+<p>
+  訳注：Orbiterに同梱されているTransXにはいくつかのバグが存在します。最新版のTransXに必ず更新してください。<br>
+  <a href="https://orbinautjp.github.io/transximfd/transxinstall.html" target="_blank" rel="noopener noreferrer">TransXの更新と設定</a>
+</p>
 </body>
 END_HYPERDESC

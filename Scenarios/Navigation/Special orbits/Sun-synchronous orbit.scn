@@ -1,16 +1,18 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A sun-synchronous orbit is a near-polar orbit with an inclination of slightly
-more than 90 degrees. At this inclination, the line of nodes moves at a rate
-of 360 degrees per year (nearly 1 degree per day), due to the nonspherical
-distortion of Earth's gravitational field. Thus, the orbital plane
-retains its relative orientation with respect to the sun.
-
-
-In this example, the orbit is set up to continuously move along the Earth's terminator.
-
-
-Note: You must activate "nonspherical gravity sources" in the Launchpad for this scenario to work!
+<h1>太陽同期軌道</h1>
+<p>太陽同期軌道とは、軌道傾斜角がわずかに90°を超える、極軌道に近い軌道です。
+このような軌道傾斜角では、降交点と昇交点を結ぶ線が1年に360°（1日におよそ1°）回転します。
+これは、地球が完全な球体でなく、重力場も一様ではないことが原因です。
+このため、軌道面が太陽に対して同じ角度を維持することになります。</p>
+<p>このシナリオでは、地球の明暗境界線に沿って移動するような軌道になっています。</p>
+<p>注意：Parametersタブを開いて、nonspherical gravity sourcesにチェックを入れてください。</p>
+<p>訳注：
+Extra→Time propagation→Orbit stabilisation
+を選択して
+Edit→Enable orbit stabilisationのチェックを外す、
+という手順を経ないとうまく動かないようです。
+（高倍率のタイムワープで摂動の影響が無視されるため。終わったら元に戻してください！）</p>
 </body>
 END_HYPERDESC
 
