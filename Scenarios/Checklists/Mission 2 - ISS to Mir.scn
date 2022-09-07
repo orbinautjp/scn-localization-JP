@@ -2,7 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>チェックリストミッション 2 ISSからミールへ</h1>
 <p><a href="https://orbinautjp.github.io/tutorial/align-planes-mfd.html" target="_blank" rel="noopener noreferrer">Align MFD</a>と
-<a href="https://orbinautjp.github.io/tutorial/sync-orbit-mfd.html" target="_blank" rel="noopener noreferrer">Sync Orbit MFD</a>を使って、ISSからMir（ミール宇宙ステーション）へと移動する。</p>
+<a href="https://orbinautjp.github.io/tutorial/sync-orbit-mfd.html" target="_blank" rel="noopener noreferrer">Sync Orbit MFD</a>を使って、ISSからMir（ミール宇宙ステーション）へと移動します。</p>
 </body>
 END_HYPERDESC
 
