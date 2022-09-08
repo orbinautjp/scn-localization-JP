@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Deploy the LDEF satellite in orbit using the manipulator arm (Ctrl-Space).
-Return the Shuttle back to Kennedy Space Center.
+<h1>LDEFを放出する</h1>
+<p>Ctrl+スペースキーを押して、LDEF衛星を軌道上に放出してください。<br>
+終わったら、ケネディ宇宙センターにシャトルを帰還させてください。</p>
 </body>
 END_HYPERDESC
 

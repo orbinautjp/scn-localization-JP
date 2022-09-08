@@ -1,10 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The Hubble Space Telescope is being pulled out of the Shuttle Cargo Bay.
-Complete the deployment operation using the Manipulator Arm control pad
-(Ctrl-Space). After detaching the telescope, switch focus (F3) to the HST
-and unfold the solar arrays (Ctrl-3), deploy the high-gain antennae (Ctrl-1),
-and open the main telescope hatch (Ctrl-2).
+<h1>ハッブル望遠鏡を放出する</h1>
+<p>シャトルの貨物ベイから、ハッブル望遠鏡を放出します。
+Ctrl+スペースキーを押してRMS Operationを選択、ロボットアームを操作してください。Releaseをクリックすると切り離します。
+望遠鏡を放出したら、F3キーを押してHSTを選択。Ctrl+3を押して太陽電池パネルを展開、Ctrl+1を押して高利得アンテナを展開し、Ctrl+2で先端のドアを開放します。</p>
 </body>
 END_HYPERDESC
 

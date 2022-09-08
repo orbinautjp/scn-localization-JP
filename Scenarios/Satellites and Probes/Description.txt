@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Satellites and probes</h1>
-<p>A collection of Space Shuttle missions with the Hubble Space Telescope (HST) and Long Duration Exposure Facility (LDEF).</p>
+<h1>衛星と探査機</h1>
+<p>スペースシャトルと、ハッブル宇宙望遠鏡・LDEF（長期暴露実験施設）が登場するシナリオ集です。</p>
 </body>
 END_HYPERDESC

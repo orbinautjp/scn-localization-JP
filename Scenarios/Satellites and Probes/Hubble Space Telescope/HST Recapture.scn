@@ -1,9 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The Hubble Space Telescope is due for major maintenance work and refitting on Earth.
-Move Atlantis into position using linear RCS thrusters, and grapple with the manipulator arm.
-Switch focus to the HST to retract solar arrays, antennae and telescope hatch, then stow
-the telescope in the Shuttle cargo bay. Return your valuable payload back to KSC.
+<h1>ハッブル望遠鏡を回収する</h1>
+<p>整備・改修のため、ハッブル望遠鏡を地球に持ち帰ることになりました。<br>
+RCSを噴射してアトランティスを移動させ、ロボットアームで把持してください。</p>
+<p>F3キーを押してHSTを選択し、太陽電池パネル、アンテナ、ドアを格納して、シャトル貨物ベイに望遠鏡を収納してください。
+Ctrl+スペースキーでPayload Door Operationを選択して貨物ベイを閉鎖したら、再突入してKSCに帰還してください。</p>
 </body>
 END_HYPERDESC
 
