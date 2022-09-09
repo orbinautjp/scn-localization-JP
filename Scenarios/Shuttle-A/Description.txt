@@ -1,6 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Shuttle-A scenarios</h1>
-<p>This folder contains scenarios with Roger "Frying Tiger" Long's new version of the Shuttle-A transport vessel.</p>
+<h1>Shuttle-A シナリオ集</h1>
+<p>Roger "Frying Tiger"が作成した、新型のShuttle-A貨物船が登場するシナリオです。</p>
+<p>
+  K…ドッキング用ハッチを開閉<br>
+  O…エアロックを開閉<br>
+  G…着陸脚を展開・格納
+</p>
 </body>
 END_HYPERDESC

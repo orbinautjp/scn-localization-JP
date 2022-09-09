@@ -1,19 +1,13 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A Shuttle-A class transport vessel is ready for take-off from Habana International Spaceport.
-
-This vessel class is primarily used for orbital operations and low-gravity low-atmosphere planet descents.
-Launching it from Earth can be a challenge.
-
-To take off, you need the auxiliary pods in hover configuration
-in addition to the standard hover thrusters.
-
-Once free of the pad, set a climb angle of 60 deg. and adjust hovers to maintain zero angle of attack.
-
-As you leave the lower atmosphere and gather speed, reduce your climb angle and slowly reduce hover
-thrust.
-
-You should just about be able to make LEO before running out of fuel.
+<h1>Shuttle-Aの打ち上げ</h1>
+<p>Habana（ハバナ）国際宇宙港にて、Shuttle-A貨物船が打ち上げのときを待っています。</p>
+<p>このタイプの宇宙船は軌道上、もしくは低重力・低密度大気下での運用を主な目的としており、地球からの打ち上げには適していません。</p>
+<p>ホバーエンジンの推力だけでは離陸できないため、補助スラスターポッドを使用します。<br>
+訳注：AUX POD TILTをHOVER(HVR)にして、AUX PODのスロットルを操作してください。</p>
+<p>離陸したら、迎え角60°で上昇してください。同時にホバーエンジンを操作して、高度が下がらないようにします。</p>
+<p>大気が薄くなってきたら、迎え角を下げて、ホバーエンジンの推力を少しずつ下げてください。</p>
+<p>燃料切れになる前に、ぎりぎりで周回軌道に乗れるはずです。</p>
 </body>
 END_HYPERDESC
 

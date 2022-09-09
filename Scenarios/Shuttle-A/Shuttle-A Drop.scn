@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Shortly after re-entry, ready to drop the cargo and return to LEO
+<h1>貨物投下ミッション</h1>
+<p>再突入を完了し、貨物コンテナを投下します。<br>
+完了したらエンジンに点火して、周回軌道に復帰しましょう。</p>
+<p>訳注：貨物コンテナの投下は、コクピット内のPAYLOADボタンをクリックしてください。</p>
 </body>
 END_HYPERDESC
 

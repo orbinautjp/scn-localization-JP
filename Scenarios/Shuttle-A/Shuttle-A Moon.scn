@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Start a delivery trip from Brighton Beach. Drop the 120 tons into the Indian Ocean, then return to LEO and back to Brighton Beach for a 8 days trip. Needs accurate orbit planning as fuel is limited.
+<h1>月―地球輸送ミッション</h1>
+<p>月面のBrighton Beach基地を出発して、地球に貨物コンテナを輸送しましょう。</p>
+<p>インド洋に120トンのペイロードを投下したら、周回軌道に復帰して、合計で8日後にBrighton Beach基地に帰還します。</p>
+<p>燃料に余裕はないので、無駄のない軌道を計画する必要があります。</p>
 </body>
 END_HYPERDESC
 

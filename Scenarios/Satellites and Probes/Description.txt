@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>衛星と探査機</h1>
-<p>スペースシャトルと、ハッブル宇宙望遠鏡・LDEF（長期暴露実験施設）が登場するシナリオ集です。</p>
+<p>スペースシャトルと、ハッブル宇宙望遠鏡・LDEF（長期暴露実験施設）が登場するシナリオです。</p>
 </body>
 END_HYPERDESC
