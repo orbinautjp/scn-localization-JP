@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Line up with SLF runway 33 and touch down with Atlantis.
-Remember to deploy the airbrake surfaces (Ctrl-B) and lower the
-landing gear (G) before the final flare.
+<h1>着陸態勢に入る</h1>
+<p>アトランティスを操縦して、SLF（Shuttle Landing Facility = シャトル着陸施設）の33番滑走路に着陸しましょう。</p>
+<p>Ctrl+Bを押してエアブレーキを展開、Gを押して着陸脚を展開します。</p>
 </body>
 END_HYPERDESC
 

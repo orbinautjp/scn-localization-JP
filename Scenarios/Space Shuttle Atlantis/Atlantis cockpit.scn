@@ -1,8 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A preliminary virtual cockpit for Space Shuttle Atlantis with limited functionality. (Expect an improved version soon!)
-Have a look around the flight deck and enjoy the view of Earth through
-the windows.
+<h1>アトランティスのコクピット</h1>
+<p>スペースシャトル・アトランティスの3Dコクピットです。
+まだ仮の段階のもので、一部のボタンのみ動作します。（改良する予定です！）</p>
+<p>フライトデッキを探索して、窓から見える地球を鑑賞しましょう。</p>
+<p>訳注：Ctrl+矢印キーで座席を移動、Ctrl+Alt+矢印キーでカメラを移動</p>
 </body>
 END_HYPERDESC
 

@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Prepare for an early morning launch with Space Shuttle Atlantis. The sun has
-not yet risen at the Cape, but you will catch the first rays of the morning
-sun on your way to orbit!
+<h1>夜明けへの打ち上げ</h1>
+<p>スペースシャトル・アトランティスの早朝打ち上げです。ケープ・カナヴェラルは夜明け前ですが、上昇中に日の出を眺めることができます。</p>
+<p>訳注：Ctrl+スペースキーを押してAscent Autopilotを選択。Launchをクリックすると打ち上げを開始します。</p>
 </body>
 END_HYPERDESC
 

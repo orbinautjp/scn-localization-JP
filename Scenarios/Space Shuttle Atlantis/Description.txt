@@ -1,10 +1,12 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Space Shuttle Atlantis</h1>
-<p>The new Space Shuttle Atlantis model. Mesh and textures contributed by Don Gallagher (donamy).</p>
+<h1>スペースシャトル・アトランティス</h1>
+<p>スペースシャトル・アトランティスの3Dモデルが新しくなりました。Don Gallagher (donamy)が制作・提供したものです。</p>
 
-<p>The RMS arm can now be manipulated via a control dialog (Ctrl-Space).</p>
+<p>Ctrl+スペースキーを押すと、RMS（ロボットアーム）の操作ダイアログが開きます。</p>
 
-<p>Atmospheric control surfaces are working in this version, so the final approach phase is a lot more realistic now!</p>
+<p>このバージョンから動翼が可動するようになり、滑走路へのアプローチがよりリアルになりました。</p>
+
+<p>訳注：一部で古いバージョンの記述がそのままになっています。</p>
 </body>
 END_HYPERDESC

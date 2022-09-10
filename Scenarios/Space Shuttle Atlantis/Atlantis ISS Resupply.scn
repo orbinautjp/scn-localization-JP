@@ -1,6 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Start the Simulator with Atlantis docked to the ISS. The Leonardo mplm is in the Atlantis cargo bay. 
+<h1>ISSへの補給ミッション</h1>
+<p>ISSにドッキングした状態でゲームを開始します。アトランティスの貨物ベイには、レオナルドMPLM（多目的補給モジュール）が搭載されています。</p>
+<p>訳注：F3キーを押してSTS-101を選択。Applyをクリック。<br>
+Ctrl+スペースキーを押してRMS Operationを選択。<br>
+三角形のボタンでロボットアームを操作。<br>
+Grappleで接続、Releaseで切り離し。</p>
 </body>
 END_HYPERDESC
 

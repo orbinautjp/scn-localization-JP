@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Jettison a Satellite from the Atlantis
+<h1>人工衛星を放出する</h1>
+<p>アトランティスの貨物ベイから、人工衛星を放出します。</p>
+<p>訳注：Ctrl+スペースキーを押してRMS Operationを選択し、Purgeボタンをクリックすると分離します。</p>
 </body>
 END_HYPERDESC
 

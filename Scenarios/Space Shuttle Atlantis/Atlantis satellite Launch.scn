@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Contains the latest simulation state.
+<h1>人工衛星の打ち上げ</h1>
+<p>人工衛星を搭載したアトランティスを打ち上げます。</p>
+<p>訳注：Ctrl+スペースキーを押してAscent Autopilotを選択。Launchをクリックすると打ち上げを開始します。</p>
 </body>
 END_HYPERDESC
 

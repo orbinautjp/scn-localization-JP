@@ -1,10 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Fly to the Carina with the MMU to make Emergency Repairs!
-
-Press 'E' to start your EVA mission, followed by 'Ctrl-D' to push away from the airlock.
-
-Once you are free of the airlock, tilt backwards using 'Numpad2'. The satellite should soon come into view trailing the shuttle.
+<h1>宇宙遊泳ミッション</h1>
+<p>MMU（Manned Maneuvering Unit = 有人操縦ユニット）を操縦して、Carina人工衛星まで飛行しましょう。</p>
+<p>キーボードEを押してEVAを開始し、Ctrl+Dを押してエアロックから離れます。</p>
+<p>エアロックを出たら、テンキー2を押して回転してください。シャトルの後方にいる衛星が見えるはずです。</p>
+<p>訳注：宇宙飛行士で人工衛星をつかむことはできません。</p>
 </body>
 END_HYPERDESC
 
