@@ -1,10 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>International Space Station</h1>
-
-<p>Start the Simulator with Atlantis docked to the ISS. The Leonardo mplm is in the Atlantis cargo bay.</p>
-
-<p>ISS model by Andrew Farnaby (F-A-D).</p>
+<h1>国際宇宙ステーション</h1>
+<p>ISSにアトランティスがドッキングした状態でゲームを開始します。貨物ベイにはレオナルドMPLMが搭載されています。</p>
+<p>ISSの3Dモデルは、Andrew Farnaby (F-A-D)によって製作されました。</p>
 </body>
 END_HYPERDESC
 

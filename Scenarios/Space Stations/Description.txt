@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Space stations</h1>
-<p>A collection of space stations featured in the default Orbiter distribution.</p>
+<h1>宇宙ステーション</h1>
+<p>Orbiterにデフォルトで収録されている宇宙ステーションです。</p>
 </body>
 END_HYPERDESC

@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Sunrise in space: See the International Space Station emerge from Earth's shadow.
-
-Orbiter now supports shadowing of vessels by planets.
+<h1>光と闇</h1>
+<p>国際宇宙ステーションは、地球の影から出てくるところです。宇宙の夜明けです。</p>
+<p>現行のOrbiterでは、惑星の影にいる宇宙船が暗く表現されるようになっています。</p>
 </body>
 END_HYPERDESC
 

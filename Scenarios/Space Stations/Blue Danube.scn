@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-It is not quite the Station-V from 2001: Odyssee in Space (which is available as a 3rd party addon), but the principle is the same: Dock the Shuttle-A freighter at the docking port in the hub of the rotating station.
-The rotation has already be synchronised to make your life easier.
+<h1>美しく青きドナウ</h1>
+<p>「2001年宇宙の旅」に登場する宇宙ステーション5（有志が作成したアドオンが配布されています）にはあんまり似ていませんが、基本的な構造は同じです。<br>
+Shuttle-A貨物船を操作して、回転するステーションの中央にあるドッキングポートに接続してください。</p>
+<p>宇宙船の回転をステーションと同期させてあるので、そんなに難しくはないはずです。</p>
 </body>
 END_HYPERDESC
 
