@@ -1,9 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Earth and Moon. Lunar ephemerides now use the ELP2000-82 perturbation solution, improving the accuracy of the Moon's position in Orbiter.
-This provides more precise eclipse timings, and removes the relative motion artefacts of the previous release.
-
-Turn on labels (F9), switch to highest time acceleration, and watch the Moon rotate around Earth.
+<h1>地球―月系</h1>
+<p>地球と月です。天体暦にはELP2000-82の摂動計算を使用し、Orbiterにおける月の位置計算の精度を向上させています。</p>
+<p>これにより、正確なタイミングで食が起こるようになったほか、以前のバージョンに存在した相対運動の問題を解消しています。</p>
+<p>F9キーを押してプラネタリウムモードを開始し、タイムワープを最大にして、地球を周回する月を観察しましょう。</p>
 </body>
 END_HYPERDESC
 

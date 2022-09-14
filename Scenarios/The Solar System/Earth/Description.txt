@@ -1,8 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Earth views</h1>
+<h1>地球の風景</h1>
 
-<p>A collection of scenarios with views, pre-recorded flyovers and orbits around the home planet.<p>
-<p>For best results even at low altitude, you should install the high-resolution Earth texture packs from the Orbiter texture repository.</p>
+<p>地球のさまざまな風景を紹介します。収録されているシナリオには、自分でカメラ位置を選択するものと、自動再生するもの、そして軌道上を周回するものがあります。<p>
+
+<p>Orbiter公式サイトでは、高解像度テクスチャパックを配布しています。導入すれば、低高度でも地形を詳細に再現できます。</p>
 </body>
 END_HYPERDESC

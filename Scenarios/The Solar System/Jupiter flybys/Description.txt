@@ -1,9 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A set of scenarios recreating historic flybys of Jupiter and its moons by the Voyager and Galileo space probes.
-They demonstrate the improved long-term accuracy of Orbiter's ephemeris calculation for the Jovian system using
-GALSAT perturbation code.
-
-You will need to apply time compression for these scenarios.
+<h1>木星フライバイ</h1>
+<p>ガリレオ探査機、そしてボイジャーの木星フライバイを再現したシナリオ集です。</p>
+<p>Orbiterは木星系の天体暦にGALSATの摂動計算コードを採用しており、長期間のシミュレーションの精度が向上しています。
+これらのシナリオは、それを実証するためのサンプルです。</p>
+<p>タイムワープを使用して、天体の運動を観察してください。</p>
 </body>
 END_HYPERDESC

@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A few vistas from around our Solar System. To visit them, launch Orbiter, then open the Camera
-dialog (Ctrl-F1), click the Preset button, and select views from the list.
+<h1>グランドツアー</h1>
+<p>太陽系の観光名所を集めてみました。</p>
+<p>ゲームを起動したら、Ctrl+F1を押してダイアログを開く。<br>
+Presetタブを開いてリストの項目をダブルクリックすると、カメラが移動します。</p>
 </body>
 END_HYPERDESC
 

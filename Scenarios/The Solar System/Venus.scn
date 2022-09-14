@@ -1,6 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The DeltaGlider in low orbit around Venus (courtesy Jim "BigJimW" Williams). Drop below the cloud layer to get a glimpse at the new surface textures. But beware of the dense atmosphere!
+<h1>金星</h1>
+<p>金星はJim "BigJimW" Williamsによって製作されました。</p>
+<p>軌道上にはデルタグライダーが待機しています。<br>
+雲海の下に降りて、地表のテクスチャを観測してみましょう。高圧の大気に注意してください！</p>
+<p>訳注：2003バージョンでの記述がそのままになっています。
+現行バージョンの金星は、JPL Multimission Image Processing Laboratoryの画像を使用しています。</p>
 </body>
 END_HYPERDESC
 

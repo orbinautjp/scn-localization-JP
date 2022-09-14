@@ -1,5 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A few past and current solar and lunar eclipses. 
+<h1>日食・月食</h1>
+<p>日食及び月食のシナリオ集です。</p>
 </body>
 END_HYPERDESC

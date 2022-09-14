@@ -1,12 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-The Lunar eclipse of October 27/28, 2004.
-Watch from the lunar surface as the Earth covers the face of the Sun.
-
-You can speed up the simulation by using time acceleration (T). Use
-planetarium mode (F9) to locate the dark disc of Earth.
-
-Note Mercury (the dim red dot) in the lower left corner of the screen.
+<h1>2004年の月食</h1>
+<p>2004年10月27・28日の月食です。</p>
+<p>月面から、地球の影に隠れる太陽を観察しましょう。</p>
+<p>キーボードTを押すと早送りできます（訳注：Rキーで遅くする）。<br>
+F9キーを押すとプラネタリウムモードになり、地球の黒い影を見つけやすくなります。</p>
+<p>画面下の左隅には水星（くすんだ赤い点）が見えます。</p>
 </body>
 END_HYPERDESC
 

@@ -1,10 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Homeworld: The Blue Planet.</h1>
-<p>A list of sights and places can be selected from the Preset list of the Camera
-dialog (Ctrl-F1).</p>
-<p>For most spectacular results, make sure you have a high-resolution Earth texture
-packs installed.</p>
+<h1>青い惑星、わたしたちの故郷</h1>
+<p>Ctrl+F1を押して、Presetリストの項目をダブルクリックすると、さまざまな地域にカメラが移動します。</p>
+<p>高解像度テクスチャをインストールすると、より鮮やかな映像を鑑賞できます。</p>
 </body>
 END_HYPERDESC
 

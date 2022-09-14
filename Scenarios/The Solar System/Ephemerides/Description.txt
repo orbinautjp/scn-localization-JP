@@ -1,5 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Orbiter uses improved solutions for its planetary position and velocity calculations. This folder shows a few examples.
+<h1>天体暦</h1>
+<p>天体の位置・速度を計算するアルゴリズムを改良しました。このフォルダでは、いくつかの具体例を紹介しています。</p>
 </body>
 END_HYPERDESC

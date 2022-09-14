@@ -1,8 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-A view of the Jovian system with Jupiter and the four major moons Io, Europa, Ganymede and Callisto.
-
-Orbiter now uses semi-analytic perturbation solutions to provide long-term stability of positions for the Jovian system. Simply turn on the planet labels (F9), switch to 100000x time acceleration, and watch.
+<h1>木星の衛星たち</h1>
+<p>木星と、木星の主要な4つの衛星（イオ・エウロパ・ガニメデ・カリスト）を、俯瞰で観察できます。</p>
+<p>現行のOrbiterでは、木星系の天体の位置を半解析的な摂動計算によって決定しており、長期間にわたって安定したシミュレーションが可能になっています。</p>
+<p>F9キーを押すと天体の名前を表示できます。タイムワープを100000倍速に設定して観察してみましょう。</p>
 </body>
 END_HYPERDESC
 
