@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Tutorials</h1>
-<p>This folder contains a collection of pre-recorded scenarios demonstrating various procedures and techniques, from launch, rendezvous and docking to a complete lunar transfer.</p>
+<h1>チュートリアル</h1>
+<p>このフォルダのシナリオは自動再生されます。<br>
+打ち上げ、ランデブー、ドッキング、そして月遷移軌道のチュートリアルが収録されています。</p>
+<p>訳注：ゲーム内の字幕は翻訳されていません。<br>
+リプレイの一時停止はできますが、巻き戻しはできません。</p>
 </body>
 END_HYPERDESC

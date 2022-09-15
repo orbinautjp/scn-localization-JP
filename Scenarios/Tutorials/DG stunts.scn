@@ -1,13 +1,21 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Orbiter playback scenario at T = 4
+<h1>リプレイ機能</h1>
+<p>Orbiterでリプレイを保存する方法について紹介します。
+サンプルとして、デルタグライダーが曲芸飛行を披露します。</p>
+<p>リプレイ中、宇宙船の操縦はできませんが、カメラの切り替えなどは可能です。</p>
+<p>F5キーを押すとリプレイを終了します。リプレイを終了すると、宇宙船を操縦できるようになります。</p>
+<p>Ctrl+F5でダイアログを開きます。
+Recをクリックすると記録を開始します。STOPで終了します。</p>
+<p>保存済みのリプレイはPlaybackフォルダに入っています。<br>
+再生中にCtrl+F5でダイアログを開きます。Editorをクリックすると編集画面が開き、字幕を挿入することができます。</p>
+<p>訳注：日本語の字幕は表示できません。</p>
 </body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 55269.6691348312
-  Help CurrentState_img
 END_ENVIRONMENT
 
 BEGIN_FOCUS

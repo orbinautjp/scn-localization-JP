@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>デモモード用 シナリオ集</h1>
+<h1>デモモード</h1>
 <p>Orbiterをデモモードで起動すると、これらのシナリオがランダムで実行されます。</p>
 
 <p>Orbiter.cfgを編集して、DemoMode = TRUEにするとデモモードが有効になります。<br>

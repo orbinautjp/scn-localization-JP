@@ -2,6 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>保存済みのリプレイ</h1>
 <p>ゲームのリプレイはこのフォルダに保存されます。</p>
-<p>訳注：Ctrl+Cで記録開始・終了、Ctrl+F5でダイアログを開く</p>
+<p>訳注：Ctrl+Cで記録開始・終了、Ctrl+F5でダイアログを開く。<br>
+日本語字幕には対応していません。</p>
 </body>
 END_HYPERDESC

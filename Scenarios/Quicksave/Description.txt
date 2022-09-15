@@ -1,6 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>クイックセーブ</h1>
-<p>クイックセーブ（Ctrl+S）はこのフォルダに保存されます。</p>
+<p>Ctrl+Sでクイックセーブすると、このフォルダに保存されます。</p>
 </body>
 END_HYPERDESC
