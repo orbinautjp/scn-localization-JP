@@ -1,6 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Improved rendering of atmospheric effects from orbit.
+<h1>大気のかすみ</h1>
+<p>軌道上から見える大気圏の表現が向上しました。</p>
 </body>
 END_HYPERDESC
 

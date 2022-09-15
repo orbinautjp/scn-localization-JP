@@ -1,6 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>Views</h1>
-<p>A collection of the new visual features in the 2005 Edition.</p>
+<h1>さまざまな風景</h1>
+<p>2005バージョンで追加された視覚効果のサンプルシナリオです。<br>
+訳注：古いバージョンでの記述がそのままになっています。</p>
 </body>
 END_HYPERDESC

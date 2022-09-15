@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Microtexturing provides more detail in cloud rendering. Here is an example from the surface of Venus.
+<h1>雲のマイクロテクスチャ</h1>
+<p>マイクロテクスチャの導入により、より詳細な雲の表現ができるようになりました。<br>
+例として、金星の地表からの景色を紹介します。</p>
 </body>
 END_HYPERDESC
 

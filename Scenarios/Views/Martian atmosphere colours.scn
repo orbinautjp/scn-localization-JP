@@ -1,8 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-Olympus base on Mars: new atmospheric rendering parameters provide more realistic skies. Note the blue tint above the horizon.
-
-To check out the effect from higher up, take the small 1-seated Shuttle-PB for a spin.
+<h1>火星の大気と色彩</h1>
+<p>火星のオリンポス基地でゲームを開始します。<br>
+火星の大気圏の描画が改良され、より現実的な空の表現ができるようになりました。
+日の出をよく見てみると、空の色が青くなっていることがわかります。</p>
+<p>小型宇宙船のShuttle-PBを飛ばして、上空から火星の大気を見てみましょう。</p>
 </body>
 END_HYPERDESC
 

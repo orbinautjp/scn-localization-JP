@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-New additive rendering of objects through atmospheric layers.
-The Moon now looks much more realistic from the surface of Earth during the daytime.
+<h1>空に浮かぶ月</h1>
+<p>大気のレイヤー越しにオブジェクトを描画できるようになりました。</p>
+<p>日中に地表から見上げる月の表現が向上し、より現実に近い見た目になっています。</p>
 </body>
 END_HYPERDESC
 
@@ -70,8 +71,10 @@ END
 STS-101:Atlantis
   STATUS Landed Earth
   BASE Cape Canaveral:11
-  POS -80.6208900 28.6271740
-  HEADING 2.00
+  POS -80.6208630 28.6270927
+  HEADING 180.57
+  AROT 151.063 -8.225 4.515
+  ALT 47.361
   PRPLEVEL 0:1.000 1:1.000 2:1.000
   NAVFREQ 0 0
   CONFIGURATION 0
