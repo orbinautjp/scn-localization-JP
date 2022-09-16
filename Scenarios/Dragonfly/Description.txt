@@ -2,7 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>ドラゴンフライ宇宙船</h1>
 <p>ドラゴンフライは軌道上での荷役作業に従事する作業船です。側面と後方のRCSポッドで移動します。</p>
-<p>ドラゴンフライ宇宙船は<i>Roger Long</i>、<i>Radu Poenaru</i>、<i>Martin Schweiger</i>の三人の協力のもとで開発されました。操作方法については、Dragonfly.pdf（未翻訳）を参照してください。</p>
+<p>ドラゴンフライ宇宙船は<b>Roger Long</b>、<b>Radu Poenaru</b>、<b>Martin Schweiger</b>の三人の協力のもとで開発されました。操作方法については、Dragonfly.pdf（未翻訳）を参照してください。</p>
 <p>訳注：Orbiter2016では一部の機能に不具合があります。</p>
 </body>
 END_HYPERDESC

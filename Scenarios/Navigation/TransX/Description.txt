@@ -1,8 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
+<h1>TransX</h1>
 <p>これらのシナリオでは、Duncan Sharpeが作成した惑星間飛行ツール、TransXの使い方を紹介します。</p>
-<p>開始する前に、<i>Modules</i>タブを開いて<i>TransX</i>にチェックを入れてください。</p>
-<p><i>Doc</i>フォルダにTransXのマニュアルが同梱されています。(TransXmanualv3, TransX quickstart and deepspacemanual)</p>
+<p>開始する前に、<b>Modules</b>タブを開いて<b>TransX</b>にチェックを入れてください。</p>
+<p><b>Doc</b>フォルダにTransXのマニュアルが同梱されています。(TransXmanualv3, TransX quickstart and deepspacemanual)</p>
 <p>
   訳注：同梱版のTransXにはバグが残っているので、最新版に更新してください。<br>
   <a href="https://orbinautjp.github.io/transximfd/transxinstall.html" target="_blank" rel="noopener noreferrer">TransXの更新と設定</a>

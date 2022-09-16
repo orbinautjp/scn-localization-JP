@@ -2,7 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>夜景と街明かり</h1>
 <p>街明かりの表現が改善されました。フロリダ・タンパの夜空を飛んでみましょう。</p>
-<p>Launchpadの<i>Visual effects</i>タブを開いて、<i>Planet night lights</i>にチェックを入れてください。</p>
+<p>Launchpadの<b>Visual effects</b>タブを開いて、<b>Planet night lights</b>にチェックを入れてください。</p>
 </body>
 END_HYPERDESC
 

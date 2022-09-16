@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
+<h1>軌道上のアトランティス</h1>
 <p>軌道上のスペースシャトルを観察してみましょう。放置しておくと、重力勾配トルクによって船体が回転し、最終的には決まった姿勢で落ち着くことがわかります。</p>
-<p><i>Parameters</i>タブを開いて、<i>gravity-gradient torque</i>にチェックを入れてください。</p>
+<p><b>Parameters</b>タブを開いて、<b>gravity-gradient torque</b>にチェックを入れてください。</p>
 <p>タイムワープを100倍に設定してください。安定した姿勢（船尾・船首のどちらかが下になる）になるまで約1日かかります。</p>
 </body>
 END_HYPERDESC

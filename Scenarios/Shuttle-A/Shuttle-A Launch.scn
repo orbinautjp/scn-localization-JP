@@ -1,7 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>Shuttle-Aの打ち上げ</h1>
-<p>Habana（ハバナ）国際宇宙港にて、Shuttle-A貨物船が打ち上げのときを待っています。</p>
+<p>Habana（ハバナ）国際宇宙港にて、Shuttle-A貨物船が打ち上げを待っています。</p>
 <p>このタイプの宇宙船は軌道上、もしくは低重力・低密度大気下での運用を主な目的としており、地球からの打ち上げには適していません。</p>
 <p>ホバーエンジンの推力だけでは離陸できないため、補助スラスターポッドを使用します。<br>
 訳注：AUX POD TILTをHOVER(HVR)にして、AUX PODのスロットルを操作してください。</p>

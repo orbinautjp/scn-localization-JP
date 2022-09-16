@@ -2,5 +2,6 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>チェックリスト</h1>
 <p>このフォルダには、マニュアル(Orbiter.pdf)に掲載されているチェックリストミッションが収録されています。</p>
+<p>訳注：マニュアル及びチェックリストは翻訳されていません。</p>
 </body>
 END_HYPERDESC

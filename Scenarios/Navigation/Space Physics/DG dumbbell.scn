@@ -1,10 +1,11 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
+<h1>結合した宇宙船</h1>
 <p>
   結合した状態の2機のデルタグライダーは、それぞれの機体重量の偏りによって、重力勾配の影響を受けます。2機は潮汐ロックされた安定状態で揺れ動くことになります。<br>
   このシナリオではカメラは地球の中心を向くように固定され、この効果を観察しやすくなっています。
 </p>
-<p><i>Parameters</i>タブを開いて、<i>gravity-gradient torque</i>にチェックを入れてください。<br>
+<p><b>Parameters</b>タブを開いて、<b>gravity-gradient torque</b>にチェックを入れてください。<br>
 ゲームを開始したら、タイムワープ100倍に設定してください。</p>
 </body>
 END_HYPERDESC

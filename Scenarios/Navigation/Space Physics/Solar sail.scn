@@ -2,7 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>ソーラーセイル</h1>
 <p>ソーラーセイル（太陽帆）のテストシナリオです。太陽の輻射圧の影響がよくわかります。</p>
-<p><i>Parameters</i>タブを開いて、<i>Radiation pressure</i>にチェックを入れてください。</p>
+<p><b>Parameters</b>タブを開いて、<b>Radiation pressure</b>にチェックを入れてください。</p>
 </body>
 END_HYPERDESC
 

@@ -1,5 +1,6 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
+<h1>金星への降下</h1>
 <p>グライダーは金星の厚い大気へと降下中です。</p>
 <p>
   complex flight modelを有効にすると、低高度では高い気圧によってエンジンの出力が低下し、高度40km以下では推力が完全に失われます。<br>

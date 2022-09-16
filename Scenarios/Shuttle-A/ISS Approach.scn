@@ -1,10 +1,10 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>ISSへのドッキング</h1>
+<h1>ISSへのアプローチ</h1>
 <p>国際宇宙ステーションのドッキングポートの軸線上に、Shuttle-A貨物船が待機しています。</p>
 <p>左MFDとHUDの表示を確認しながら、ISSに接近しましょう。</p>
 <p>RCS（Reaction control system = 姿勢制御システム）をLINモードにして、針路を修正してください。</p>
-<p>ドッキングポートに接触するときの速度は、秒速0.1mを超えないようにしましょう。</p>
+<p>ドッキングポートに接触するときの速度は、0.1 m/sを超えないようにしましょう。</p>
 </body>
 END_HYPERDESC
 

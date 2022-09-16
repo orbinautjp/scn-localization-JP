@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<h1>チェックリストミッション 1 デルタグライダーでISSへ</h1>
+<h1>チェックリスト 1 デルタグライダーでISSへ</h1>
 <p>ケネディ宇宙センターからデルタグライダーを打ち上げて、国際宇宙ステーションとドッキングします。</p>
-<p><a href="https://orbinautjp.github.io/tutorial/" target="_blank" rel="noopener noreferrer">Orbiterチュートリアル</a>にて、詳しい手順を解説しています。</p>
+<p>訳注：<a href="https://orbinautjp.github.io/tutorial/" target="_blank" rel="noopener noreferrer">Orbiterチュートリアル</a>にて、詳しい手順を解説しています。</p>
 </body>
 END_HYPERDESC
 

@@ -9,7 +9,7 @@ BEGIN_HYPERDESC
 </p>
 <p>タイムワープ100倍に設定して、2機のロケットを観察しましょう。</p>
 <p>また、（シナリオエディタなどを使って）高速回転を止めた場合についても観察してみましょう。</p>
-<p><i>Parameters</i>タブを開いて、<i>gravity-gradient torque</i>にチェックを入れてください。</p>
+<p><b>Parameters</b>タブを開いて、<b>gravity-gradient torque</b>にチェックを入れてください。</p>
 <p>訳注：高速回転した状態ではOrbiterの挙動が不安定になり、ランダムに超高速で回転してしまうことがあります。</p>
 </body>
 END_HYPERDESC

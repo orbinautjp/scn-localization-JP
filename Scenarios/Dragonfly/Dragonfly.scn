@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
-<p>ドラゴンフライは軌道上のペイロードを運搬する多目的船です。2Dパネルは<i>Radu Poenaru</i>によって開発されました。操作についてはDragonfly.pdf（未翻訳）を参照してください。</p>
+<h1>ドラゴンフライ宇宙船</h1>
+<p>ドラゴンフライは軌道上のペイロードを運搬する多目的船です。</p>
+<p>2Dパネルは<b>Radu Poenaru</b>によって開発されました。
+操作についてはDragonfly.pdf（未翻訳）を参照してください。</p>
 </body>
 END_HYPERDESC
 

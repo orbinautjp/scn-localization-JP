@@ -2,7 +2,7 @@ BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>ゲーム内の光源</h1>
 <p>ゲーム内で利用可能な光源について紹介します。デルタグライダーはISSにドッキングライトをISSに向けた状態で回転しており、地球の影に入るところです。</p>
-<p>このシナリオを開始する前に、<i>Visual effects</i>タブを開いて<i>Local light sources</i>にチェックが入っているか確認してください。</p>
+<p>このシナリオを開始する前に、<b>Visual effects</b>タブを開いて<b>Local light sources</b>にチェックが入っているか確認してください。</p>
 </body>
 END_HYPERDESC
 
