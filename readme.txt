@@ -40,7 +40,11 @@ https://www.orbiter-forum.com/members/nikogori.13302/
 
 一部のシナリオではchmファイルの読み込みによって画像を表示していますが、日本語版ではchmファイルを利用していないため、画像が表示されません。
 
-chmファイルは古い規格であり、今後のOrbiter
+chmファイルは古い規格であり、今後のOrbiterでサポートされるかわからないため、このような対応になっています。
+
+### current state
+
+(Current state).scnは自動生成されるため、日本語化できません。
 
 ### チェックリスト
 

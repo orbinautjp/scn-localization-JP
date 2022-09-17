@@ -40,6 +40,10 @@ https://www.orbiter-forum.com/members/nikogori.13302/
 
 chmファイルは古い規格であり、今後のOrbiterでサポートされるかわからないため、このような対応になっています。
 
+### current state
+
+(Current state).scnは自動生成されるため、日本語化できません。
+
 ### チェックリスト
 
 Checklistsフォルダのシナリオは翻訳していません。
