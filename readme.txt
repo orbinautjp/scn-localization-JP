@@ -32,6 +32,10 @@ https://www.orbiter-forum.com/members/nikogori.13302/
 
 ## 注意点
 
+### 外部リンク
+
+Orbiterの仕様により、外部リンクを開くと（既定のブラウザに関係なく）Internet Explorerが起動するようになっています。
+
 ### ゲーム内字幕
 
 リプレイ等で表示される字幕は日本語に対応していません。
